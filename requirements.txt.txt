@@ -1,0 +1,4 @@
+pandas==2.2.2
+plotly==5.22.0
+pmdarima==2.0.4
+statsmodels==0.14.1
